@@ -68,3 +68,31 @@
 
 - Consentimento: Abordagem baseada na manifestação de vontade do titular
 - Legítimo interesse: Abordagem baseada no interesse legítimo do controlador ou de terceiro (interesse pode ser comercial)
+
+
+### Especificidades da LGPD
+
+- Agentes de tratamento
+    - Controlador: Responsável por decisões referentes ao tratamento de dados pessoais
+    - Operador: Responsável por realizar o tratamento de dados pessoais em nome do controlador
+
+- Exemplos de operadores
+    - Empresa é controladora dos dados pessoais dos seus funcionários
+    - Empresa é controladora dos dados pessoais na contratação de serviços de armazenamento em nuvem
+
+
+### ROPA
+
+- Mapeamento de dados pessoais dentro da empresa em relação ao impacto desses dados
+
+
+### LIA (Avaliação do legítimo interesse)
+
+- Avalia o impacto do legítimo interesse do controlador sobre a privacidade dos dados pessoais
+- Legítimo interesse não pode ser usado no tratamento de dados sensíveis
+- Quanto menor o impacto ao titular, maior a chance de uma avaliação de legítimo interesse ser aprovada
+
+
+### RIPD (Relatório de Impacto à Proteção de Dados)
+
+- É um documento que descreve os processos de tratamento dos dados pessoais que podem gerar riscos de as liberdades civis e aos direitos fundamentais, bem como mecanismos de mitigação de riscos       
